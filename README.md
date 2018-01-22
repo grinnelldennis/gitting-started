@@ -36,13 +36,13 @@ What happens if you miss a day of class because you are sick or your alarm doesn
 > There is no penalty for missing normal class days, even though a penalty up to 20% may incur for a missed lab day. 
 
 What happens if you turn in a lab late?
-> ...
+> Penalized 1 full letter grade per day late
 
 On what day will you give a presentation on your final project for this course?
-> ...
-
+> The final project presentation is assigned under the project tab but no due date is given.
+  
 Where can you find our course textbook?
-> ...
-
+  > For free online, link in the syllabus
+  
 When are you free during my scheduled office hours?
-> ...
+  > With the exception of incedental work items, all of them.
