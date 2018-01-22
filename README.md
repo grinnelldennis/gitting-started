@@ -46,7 +46,8 @@ On what day will you give a presentation on your final project for this course?
 > The final project presentation is assigned under the project tab but no due date is given.
   
 Where can you find our course textbook?
-  > For free online, link in the syllabus
+> For free online, link in the syllabus
   
 When are you free during my scheduled office hours?
-  > With the exception of incedental work items, all of them.
+> I am free for the entire time Monday, Wednesday & Friday after 4pm. (Dennis)
+> With the exception of incedental work items, all of them. (Philip)
