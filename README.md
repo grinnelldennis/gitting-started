@@ -3,28 +3,32 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Chun Chan
+> Chun Chan, Philip Kiely
 
 What do you prefer to be called?
-> Dennis
+> Dennis, Philip
 
 What are your GitHub usernames?
-> grinnelldennis
+> grinnelldennis, philipkiely
 
 Why are you taking this course?
-> Because I want to learn the intricacies of operating systems!
+> Because I want to learn the intricacies of operating systems! (d)
+> Because I appreciate the need to understand the intricacies behind the abstractions that I enjoy while working in Python & similar (p)
 
 Do you have any concerns about this course?
-> I'm worried with the amount of time this course might take up.
+> I'm worried with the amount of time this course might take up. (d)
+> ^Me too. Also, I look around and see a lot of really smart upperclassmen with more experience than me (p)
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> I'm excited to learn more about concurrency stuff.  
+> I'm excited to learn more about concurrency stuff.  (d)
+> I'm excited to learn about file storage. (p)
 
 Do you have any questions about the course?
-> I will let you know when I have some!
+> I will let you know when I have some! (d)
+> ^same (p)
 
 Do you have any other questions for me?
-> I'm good. 
+> I'm good. (d & p)
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
