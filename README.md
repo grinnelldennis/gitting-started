@@ -3,51 +3,46 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Chun Chan
 
 What do you prefer to be called?
-> ...
+> Dennis
 
 What are your GitHub usernames?
-> ...
+> grinnelldennis
 
 Why are you taking this course?
-> ...
+> Because I want to learn the intricacies of operating systems!
 
 Do you have any concerns about this course?
-> ...
+> I'm worried with the amount of time this course might take up.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> I'm excited to learn more about concurrency stuff.  
 
 Do you have any questions about the course?
-> ...
+> I will let you know when I have some!
 
 Do you have any other questions for me?
-> ...
+> I'm good. 
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> Individual assignment, labs, and the project. 
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> There is no penalty for missing normal class days, even though a penalty up to 20% may incur for a missed lab day. 
 
 What happens if you turn in a lab late?
 > ...
-> Penalized 1 full letter grade per day late
 
 On what day will you give a presentation on your final project for this course?
 > ...
 
-The final project presentation is assigned under the project tab but no due date is given.
 Where can you find our course textbook?
-
 > ...
-> For free online, link in the syllabus
+
 When are you free during my scheduled office hours?
-
 > ...
-> With the exception of incedental work items, all of them.
